@@ -1,7 +1,7 @@
 # "Crypto Testnet Faucet"
 
-||Network|Faucet|
-|--|--|--|-|
+||Network|Faucet|Tokens|
+|---|---|---|----|
 |**1.**| Ethereum Testnet Rinkeby (RIN) | https://rinkebyfaucet.com/  |
 ||| http://rinkeby-faucet.metis.io/ |
 ||| https://faucet.rinkeby.io/ |
