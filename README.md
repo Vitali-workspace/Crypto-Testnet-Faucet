@@ -37,9 +37,9 @@
 |**15.**| Celo Alfajores Testnet | https://celo.org/developers/faucet | 5 CELO, 10 cUSD, 10 cEUR |
 |**16.**| Evmos Testnet | https://faucet.evmos.dev/ | 0.1 EVMOS |
 |**17.**| Comdex Devnet / Testnet | https://faucet.comdex.one/ ||
-|**18.**| Elrond Devnet / Testnet | https://r3d4.fr/faucet ||
-|**19.**| Shiden Community Faucet | https://www.as-faucet.xyz/shiden# ||
-|**20.**| KYVE Testnet Faucet | https://app.kyve.network/#/faucet ||
+|**18.**| Elrond Devnet / Testnet | https://r3d4.fr/faucet | 1 xEGLD, Other|
+|**19.**| Shiden Community Faucet | https://www.as-faucet.xyz/shiden# | 0.005 SDN |
+|**20.**| KYVE Testnet Faucet | https://app.kyve.network/#/faucet | 1-300 KYVE |
 |**21.**| Cardano DevNet and Testnet | https://testnets.cardano.org/en/testnets/cardano/tools/faucet/ | 1000 tADA |
 |**22.**| Cronos Testnet | https://cronos.org/faucet | 50 Test CRO |
 |**23.**| Algorand Testnet Network | https://bank.testnet.algorand.network/ ||
@@ -48,19 +48,18 @@
 |**24.**| Terra Testnet | https://faucet.terra.money/ | 5 LUNA |
 |**25.**| ETH 2.0 Kiln Testnet-beta | https://kilnfaucet.com/ | 0.05 Kiln ETH |
 |**26.**| Harmony One Testnet | https://faucet.pops.one/ | 10 ONE |
-|**27.**| Bitcoin Testnet Faucet | https://tbtc.bitaps.com/ ||
-||| https://testnet-faucet.com/btc-testnet/ ||
-||| https://bitcoinfaucet.uo1.net/ ||
+|**27.**| Bitcoin Testnet Faucet | https://tbtc.bitaps.com/ | 0.01 tBTC |
+||| https://bitcoinfaucet.uo1.net/ | 0.0007 tBTC |
 ||| https://kuttler.eu/en/bitcoin/btc/faucet/ ||
 ||| https://coinfaucet.eu/en/btc-testnet/ ||
-||| https://testnet-faucet.mempool.co/ ||
-|**28.**| TRON Testnet | https://nileex.io/join/getJoinPage ||
-|**29.**| Ripple DevNet and Testnet | https://xrpl.org/xrp-testnet-faucet.html ||
-|**30.**| Dogecoin Testnet Faucet | https://testnet-faucet.com/doge-testnet/ ||
+||| https://testnet-faucet.mempool.co/ | 0.001 tBTC |
+|**28.**| TRON Testnet | https://nileex.io/join/getJoinPage | 100-10.000 TRX, BTT, USDT, JST, USDJ, TRZ, WIN |
+|**29.**| Ripple DevNet and Testnet | https://xrpl.org/xrp-testnet-faucet.html | 1,000 XRP |
+|**30.**| Dogecoin Testnet Faucet | https://testnet-faucet.com/doge-testnet/ | 100 tDOGE |
 |**31.**| Bitcoin Cash Testnet Faucet | https://tbch.googol.cash/ ||
 |**32.**| Litecoin Testnet Faucet | https://testnet-faucet.com/ltc-testnet/ ||
-|**33.**| Multichain | https://app.decommas.io/faucets||
+|**33.**| Multichain | https://faucet.dsolutions.mn/ ||
 ||Kovan, Rinkeby, Optimistic Kovan, Ropsten, Polygon Mumbai, Gorli, Arbitrum Rinkeby, Moonbase Alpha, Avalanche Fuji | https://faucet.paradigm.xyz/ ||
 ||Kovan, Ropsten, Goerli, Rinkeby, Mumbai | https://t.me/bitsznbot ||
-|| | https://faucet.dsolutions.mn/ ||
+|| |  ||
 
