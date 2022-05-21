@@ -6,22 +6,27 @@
 || | https://faucets.chain.link/rinkeby | 0.1 ETH, 10 LINK |
 ||| https://faucet.rinkeby.io/ | 3 ETH, 7.5 ETH, 18.75 ETH |
 || | https://app.mycrypto.com/faucet | 0.01 ETH |
+|| | https://t.me/bitsznbot | 0.05 ETH |
 |**2.**| Ethereum Testnet Ropsten (rETH) | https://faucet.dimensions.network/ | 1 ETH |
 ||| https://faucet.egorfine.com/ | 10 ETH |
 || | https://app.mycrypto.com/faucet | 0.01 ETH |
+|| | https://t.me/bitsznbot | 1 ETH |
 |**3.**| Ethereum Testnet Kovan | https://faucets.chain.link/kovan | 0.1 ETH, 10 LINK |
 ||| https://gitter.im/kovan-testnet/faucet# | 0.01 ETH |
 || | https://app.mycrypto.com/faucet | 0.01 ETH |
+|| | https://t.me/bitsznbot | 0.05 ETH |
 |**4.**| Ethereum Testnet Goerli| https://faucet.goerli.mudit.blog/ | 1 ETH, 2.5 ETH, 6.25 ETH |
 ||| https://goerlifaucet.com/ | 0.1 ETH without login / 0.5 ETH with login |
 ||| https://goerli-faucet.slock.it/ | 0.05 ETH |
 ||| https://faucets.chain.link/goerli | 0.1 ETH |
 ||| https://faucet.polygon.technology/ | 1 MATIC, ERC20 |
 || | https://app.mycrypto.com/faucet | 0.01 ETH |
+|| | https://t.me/bitsznbot | 0.02 ETH |
 |**5.**| Polygon Mumbai Testnet Faucet | https://mumbaifaucet.com/ | 1 MATIC |
 ||| https://testmatic.vercel.app/ | 0.2 MATIC |
 ||| https://faucet.dsolutions.mn/ ||
 ||| https://faucet.polygon.technology/ | 1 MATIC, ERC20 |
+|| | https://t.me/bitsznbot | 0.5 MATIC |
 |**6.**| Polygon Mainnet Faucet | https://www.gimlu.com/faucet ||
 ||| https://matic.supply/ ||
 |**7.**| Aurora Testnet (ETH) | https://aurora.dev/faucet | 0.0005 ETH |
@@ -60,6 +65,6 @@
 |**32.**| Litecoin Testnet Faucet | https://testnet-faucet.com/ltc-testnet/ ||
 |**33.**| Multichain | https://faucet.dsolutions.mn/ ||
 ||Kovan, Rinkeby, Optimistic Kovan, Ropsten, Polygon Mumbai, Gorli, Arbitrum Rinkeby, Moonbase Alpha, Avalanche Fuji | https://faucet.paradigm.xyz/ ||
-||Kovan, Ropsten, Goerli, Rinkeby, Mumbai | https://t.me/bitsznbot ||
 || |  ||
+
 
