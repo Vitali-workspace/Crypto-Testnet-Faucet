@@ -64,7 +64,7 @@
 |**31.**| Bitcoin Cash Testnet Faucet | https://tbch.googol.cash/ ||
 |**32.**| Litecoin Testnet Faucet | https://testnet-faucet.com/ltc-testnet/ ||
 |**33.**| Multichain | https://faucet.dsolutions.mn/ ||
-||Kovan, Rinkeby, Optimistic Kovan, Ropsten, Polygon Mumbai, Gorli, Arbitrum Rinkeby, Moonbase Alpha, Avalanche Fuji | https://faucet.paradigm.xyz/ ||
+||Kovan, Rinkeby, Optimistic Kovan, Ropsten, Polygon Mumbai, Gorli, Arbitrum Rinkeby, Moonbase Alpha, Avalanche Fuji | https://faucet.paradigm.xyz/ | 0.5 ETH, 0.5 wETH, 50 DAI, and 5 NFTs (ERC721) |
 
 
 
