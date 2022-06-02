@@ -2,12 +2,12 @@
 
 ||Network|Faucet|Tokens|
 |---|---|---|----|
-|**1.**| Ethereum Testnet Rinkeby (RIN) | https://rinkebyfaucet.com/  | 0.1 ETH without login / 0.5 ETH with login |
+|**1.**| Ethereum Testnet Rinkeby | https://rinkebyfaucet.com/  | 0.1 ETH without login / 0.5 ETH with login |
 || | https://faucets.chain.link/rinkeby | 0.1 ETH, 10 LINK |
 ||| https://faucet.rinkeby.io/ | 3 ETH, 7.5 ETH, 18.75 ETH |
 || | https://app.mycrypto.com/faucet | 0.01 ETH |
 || | https://t.me/bitsznbot | 0.05 ETH |
-|**2.**| Ethereum Testnet Ropsten (rETH) | https://faucet.dimensions.network/ | 1 ETH |
+|**2.**| Ethereum Testnet Ropsten | https://faucet.dimensions.network/ | 1 ETH |
 ||| https://faucet.egorfine.com/ | 10 ETH |
 || | https://app.mycrypto.com/faucet | 0.01 ETH |
 || | https://t.me/bitsznbot | 1 ETH |
@@ -29,9 +29,9 @@
 || | https://t.me/bitsznbot | 0.5 MATIC |
 |**6.**| Polygon Mainnet Faucet | https://www.gimlu.com/faucet ||
 ||| https://matic.supply/ ||
-|**7.**| Aurora Testnet (ETH) | https://aurora.dev/faucet | 0.0005 ETH |
-|**8.**| Avalanche Fuji Testnet (AVAX) | https://faucet.avax-test.network/ | 2 AVAX |
-|**9.**| Binance Smart Chain Testnet (tBNB) |https://testnet.binance.org/faucet-smart | 0.2 BNB, 0.1 BTC, 10 BUSD, 10 DAI, 0.1 ETH, 10 USDC, 10 USDT, 10 XRP pegged tokens |
+|**7.**| Aurora Testnet | https://aurora.dev/faucet | 0.0005 ETH |
+|**8.**| Avalanche Fuji Testnet | https://faucet.avax-test.network/ | 2 AVAX |
+|**9.**| Binance Smart Chain Testnet |https://testnet.binance.org/faucet-smart | 0.2 BNB, 0.1 BTC, 10 BUSD, 10 DAI, 0.1 ETH, 10 USDC, 10 USDT, 10 XRP pegged tokens |
 |**10.**| Solana Devnet and Testnet | https://solfaucet.com/ | 1 SOL |
 |**11.**| Near Testnet | https://wallet.testnet.near.org/ ||
 ||| https://jelilat.github.io/near-faucet/ | 200 NEAR |
