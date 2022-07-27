@@ -24,7 +24,7 @@
 || | https://t.me/bitsznbot | 0.02 ETH |
 |**5.**| Polygon Mumbai Testnet Faucet | https://mumbaifaucet.com/ | 1 MATIC |
 ||| https://testmatic.vercel.app/ | 0.2 MATIC |
-||| https://faucet.dsolutions.mn/ ||
+||| https://faucet.dsolutions.mn/ | ETH, UNI, dUSDT, dDAI, dUSDC, other |
 ||| https://faucet.polygon.technology/ | 1 MATIC, ERC20 |
 || | https://t.me/bitsznbot | 0.5 MATIC |
 |**6.**| Polygon Mainnet Faucet | https://www.gimlu.com/faucet ||
