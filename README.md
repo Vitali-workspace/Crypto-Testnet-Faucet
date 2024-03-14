@@ -3,8 +3,6 @@
 ||Network|Faucet|Tokens|
 |---|---|---|----|
 |**1.**| Ethereum Testnet Rinkeby | https://rinkebyfaucet.com/  | 0.1 ETH without login / 0.5 ETH with login |
-|| | https://faucets.chain.link/rinkeby | 0.1 ETH, 10 LINK |
-||| https://faucet.rinkeby.io/ | 3 ETH, 7.5 ETH, 18.75 ETH |
 || | https://app.mycrypto.com/faucet | 0.01 ETH |
 || | https://t.me/bitsznbot | 0.05 ETH |
 |**2.**| Ethereum Testnet Ropsten | https://faucet.dimensions.network/ | 1 ETH |
