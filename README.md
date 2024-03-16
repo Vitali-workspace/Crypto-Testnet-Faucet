@@ -13,9 +13,7 @@
 ||| https://gitter.im/kovan-testnet/faucet# | 0.01 ETH |
 || | https://app.mycrypto.com/faucet | 0.01 ETH |
 || | https://t.me/bitsznbot | 0.05 ETH |
-|**4.**| Ethereum Testnet Goerli| https://faucet.goerli.mudit.blog/ | 1 ETH, 2.5 ETH, 6.25 ETH |
-||| https://goerlifaucet.com/ | 0.1 ETH without login / 0.5 ETH with login |
-||| https://goerli-faucet.slock.it/ | 0.05 ETH |
+|**4.**| Ethereum Testnet Goerli| https://goerlifaucet.com/ | 0.1 ETH without login / 0.5 ETH with login |
 ||| https://faucets.chain.link/goerli | 0.1 ETH |
 ||| https://faucet.polygon.technology/ | 1 MATIC, ERC20 |
 || | https://app.mycrypto.com/faucet | 0.01 ETH |
