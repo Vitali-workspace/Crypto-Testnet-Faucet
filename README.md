@@ -23,7 +23,8 @@
 ||| https://faucet.dsolutions.mn/ | ETH, UNI, dUSDT, dDAI, dUSDC, other |
 ||| https://faucet.polygon.technology/ | 1 MATIC, ERC20 |
 || | https://t.me/bitsznbot | 0.5 MATIC |
-|**6.**| Polygon Mainnet Faucet | ||
+|**6.**| Polygon Testnet Faucet | https://stakely.io/en/faucet/polygon-matic | MATIC |
+||| https://polygon-testnet.unbound.finance/faucet | ETH, DAI, USDC, USDT, MATIC |
 |**7.**| Aurora Testnet | https://aurora.dev/faucet | 0.0005 ETH |
 |**8.**| Avalanche Fuji Testnet | https://faucet.avax-test.network/ | 2 AVAX |
 |**9.**| Binance Smart Chain Testnet |https://testnet.binance.org/faucet-smart | 0.2 BNB, 0.1 BTC, 10 BUSD, 10 DAI, 0.1 ETH, 10 USDC, 10 USDT, 10 XRP pegged tokens |
