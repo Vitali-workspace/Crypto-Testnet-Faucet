@@ -30,6 +30,10 @@
 |**8.**| Avalanche Fuji Testnet | https://faucet.avax-test.network/ | 2 AVAX |
 |**9.**| Binance Smart Chain Testnet |https://testnet.binance.org/faucet-smart | 0.2 BNB, 0.1 BTC, 10 BUSD, 10 DAI, 0.1 ETH, 10 USDC, 10 USDT, 10 XRP pegged tokens |
 |**10.**| Solana Devnet and Testnet | https://solfaucet.com/ | 1 SOL |
+||| https://solfaucet.togatech.org/ | SOL |
+||| https://www.testnetfaucet.org/ | 2 SOL |
+||| https://solfate.com/faucet | 1 SOL |
+||| https://faucet.triangleplatform.com/solana/testnet | 1 SOL |
 |**11.**| Near Testnet | https://wallet.testnet.near.org/ ||
 ||| https://jelilat.github.io/near-faucet/ | 200 NEAR |
 |**12.**| StarkNet Goerli Faucet | https://faucet.goerli.starknet.io/ ||
