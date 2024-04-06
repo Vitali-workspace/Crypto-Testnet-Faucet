@@ -28,6 +28,11 @@
 |**7.**| Aurora Testnet | https://aurora.dev/faucet | 0.0005 ETH |
 ||| https://faucet.triangleplatform.com/aurora/testnet | 0.00012 ETH |
 |**8.**| Avalanche Fuji Testnet | https://faucet.avax-test.network/ | 2 AVAX |
+||| https://core.app/ru/tools/testnet-faucet/?subnet=c&token=c | AVAX, USDC |
+||| https://tokentool.bitbond.com/faucet/avalanche-fuji | AVAX |
+||| https://faucet.triangleplatform.com/avalanche/fuji | 0.01 AVAX |
+||| https://www.allthatnode.com/faucet/avalanche.dsrv | 0.5 AVAX |
+||| https://testnet.help/en/avaxfaucet/testnet | 0.01 AVAX |
 |**9.**| Binance Smart Chain Testnet |https://testnet.binance.org/faucet-smart | 0.2 BNB, 0.1 BTC, 10 BUSD, 10 DAI, 0.1 ETH, 10 USDC, 10 USDT, 10 XRP pegged tokens |
 |**10.**| Solana Devnet and Testnet | https://solfaucet.com/ | 1 SOL |
 ||| https://solfaucet.togatech.org/ | SOL |
