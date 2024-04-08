@@ -46,6 +46,8 @@
 |**13.**| Fantom Testnet Opera Faucet | https://faucet.fantom.network/ | 5 FTM |
 |**14.**| Moonbeam Faucet | https://rpc.testnet.moonbeam.network/ ||
 |**15.**| Celo Alfajores Testnet | https://celo.org/developers/faucet | 5 CELO, 10 cUSD, 10 cEUR |
+||| https://www.allthatnode.com/faucet/celo.dsrv | 1 CELO |
+||| https://stakely.io/en/faucet/celo-celo | CELO |
 |**16.**| Evmos Testnet | https://faucet.evmos.dev/ | 0.1 EVMOS |
 |**17.**| Comdex Devnet / Testnet | https://faucet.comdex.one/ ||
 |**18.**| Elrond Devnet / Testnet | https://r3d4.fr/faucet | 1 xEGLD, Other|
