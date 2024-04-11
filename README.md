@@ -1,5 +1,10 @@
 # "Crypto Testnet Faucet"
 
+|| Network | Multichain Faucet|Tokens|
+|---|---|---|----|
+|**1.**| Algorand Betanet & Testnet, Arbitrum Sepolia, Astar Shibuya, Aurora Testnet, Avalanche C-Chain Fuji, Base Sepolia, Bitcoin Testnet | https://faucet.triangleplatform.com/ |  |
+|**2.**|  |  |  |
+
 ||Network|Faucet|Tokens|
 |---|---|---|----|
 |**1.**| Ethereum Testnet Rinkeby | https://rinkebyfaucet.com/  | 0.1 ETH without login / 0.5 ETH with login |
