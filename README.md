@@ -36,6 +36,8 @@
 |**9.**| Binance Smart Chain Testnet |https://testnet.binance.org/faucet-smart | 0.2 BNB, 0.1 BTC, 10 BUSD, 10 DAI, 0.1 ETH, 10 USDC, 10 USDT, 10 XRP pegged tokens |
 ||| https://tokentool.bitbond.com/faucet/bsc-testnet | BNB |
 ||| https://faucet.triangleplatform.com/bnbsmartchain/testnet | 0.001 BNB |
+||| https://testnet.help/en/bnbfaucet/testnet | 0.5 BNB |
+||| https://fsr-develop.com/blog-cscalp/tpost/pp1x4ctpx1-binance-faucet-discover-how-to-get-free | BNB |
 |**10.**| Solana Devnet and Testnet | https://solfaucet.com/ | 1 SOL |
 ||| https://solfaucet.togatech.org/ | SOL |
 ||| https://www.testnetfaucet.org/ | 2 SOL |
