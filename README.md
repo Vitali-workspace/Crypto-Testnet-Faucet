@@ -35,6 +35,7 @@
 ||| https://testnet.help/en/avaxfaucet/testnet | 0.01 AVAX |
 |**9.**| Binance Smart Chain Testnet |https://testnet.binance.org/faucet-smart | 0.2 BNB, 0.1 BTC, 10 BUSD, 10 DAI, 0.1 ETH, 10 USDC, 10 USDT, 10 XRP pegged tokens |
 ||| https://tokentool.bitbond.com/faucet/bsc-testnet | BNB |
+||| https://faucet.triangleplatform.com/bnbsmartchain/testnet | 0.001 BNB |
 |**10.**| Solana Devnet and Testnet | https://solfaucet.com/ | 1 SOL |
 ||| https://solfaucet.togatech.org/ | SOL |
 ||| https://www.testnetfaucet.org/ | 2 SOL |
