@@ -1,10 +1,10 @@
 # "Crypto Testnet Faucet"
 
-|| Network | Multichain Faucet|Tokens|
+|| Network | Multichain Faucet |Tokens|
 |---|---|---|----|
 |**1.**| Algorand (Betanet & Testnet), Arbitrum Sepolia, Astar Shibuya, Aurora Testnet, Avalanche C-Chain Fuji, Base Sepolia, Bitcoin Testnet, BNB Smart Chain Testnet, Boba Testnet, Camp Testnet, Canto Testnet, Cardano (Pre-Prod, Preview), Celo Alfajores... | https://faucet.triangleplatform.com/ |  |
 |**2.**| Ethereum, Agoric, Avalanche, Axelar, Celo, Cosmos Hub, Klaytn, NEAR, Osmosis, Persistence, Polygon, Sei | https://www.allthatnode.com/main.dsrv |  |
-|**3.**| OKB, BASE | https://www.l2faucet.com/okx-x1 |  |
+|**3.**| Arbitrum, OKB, BASE, Boba, Horizen, Kroma, Mode, X Layer, opBNB, Optimism, Scroll, Taiko, zkSync, Polygon, Avalanche, Ethereum  | https://www.l2faucet.com/ | 0.01 - 1 Token |
 
 ||Network|Faucet|Tokens|
 |---|---|---|----|
