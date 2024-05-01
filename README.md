@@ -3,7 +3,7 @@
 || Network | Multichain Faucet |Tokens|
 |---|---|---|----|
 |**1.**| Algorand (Betanet & Testnet), Arbitrum Sepolia, Astar Shibuya, Aurora Testnet, Avalanche C-Chain Fuji, Base Sepolia, Bitcoin Testnet, BNB Smart Chain Testnet, Boba Testnet, Camp Testnet, Canto Testnet, Cardano (Pre-Prod, Preview), Celo Alfajores... | https://faucet.triangleplatform.com/ |  |
-|**2.**| Ethereum, Agoric, Avalanche, Axelar, Celo, Cosmos Hub, Klaytn, NEAR, Osmosis, Persistence, Polygon, Sei | https://www.allthatnode.com/main.dsrv |  |
+|**2.**| Ethereum, Agoric, AI Network, Aptos, Arbitrum, Arbitrum Nova, Archway, Astar, Aurora, Avalanche, Axelar, Bahamut, Base, Berachain, Bitcoin, Blast, Boba, BNB Chain, Casper, Celestia, Celo, Chiliz, Cosmos Hub, Cronos, Cronos PoS, dYdX, Evmos, Fantom, Filecoin, Flow, Fuse, Gnosis, Kava, Klaytn, Kusama, Linea, Mantle, Moonbeam, Moonriver, NEAR, Oasys, Optimism, Osmosis, Persistence, Polkadot, Polygon, Polygon zkEVM, Scroll, Sei, Solana, Shentu, Stacks, Starknet, Sui, THORChain, TON, TRON, Terra Classic, Tgrade, XRP Ledger, zkSync Era, Zetachain | https://www.allthatnode.com/main.dsrv |  |
 |**3.**| Arbitrum, OKB, BASE, Boba, Horizen, Kroma, Mode, X Layer, opBNB, Optimism, Scroll, Taiko, zkSync, Polygon, Avalanche, Ethereum  | https://www.l2faucet.com/ | 0.01 - 1 Token |
 
 ||Network|Faucet|Tokens|
